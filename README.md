@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hi there and Happy Fall 🎃👋
 
 I'm an analyst and biologist with a passion for leadership! 🔭 I’m currently working on growing my skills as a data analyst/scientist. 🌱 I have enjoyed learning Python, NumPy, SciPy, all of Anaconda, Jupyter Notebook, Google Co-Lab, Pandas Matplotlib 📊 and API Interactions. Within my repositories I have applied modeling and forecasting in multiple languages utilizng statistics to analyze multiple data projects. I'm very knowlegable and comfortable with PostgresSQL/pgAdmin, MongoDB, and ETL. I have utilizied and am extremley proficient in HTML, CSS, Bootstrap,  dashboarding, JavaScript charting 📈, and Geomapping with Leaflet.js, PowerBI, and Tableau to visualize data. I am growing in learning and becoming skilled within Amazons AWS & RDS,  R Programming, deploying with Heroku, Big Data Analytics with Hadoop, Supervised and Unsupervised Machine Learning, as well as Deep Learning. I have great knowledge of Excel since the world seems to love their pivot tables, creating macros, and VBA Scripting.  With all of that said sometimes I feel as if I've forgotten as much as I've learned but continue to remind myself that building your skillset takes 🕓 and I stay focused and consistent to the best in whichever language I am utilizing.  
 
 ⚡ Fun facts: 
-I enjoy ⛺ traveling and camping, brazilian jiu-jitsu, offshore fishing, and building my 4x4, and 🏋working out.
-📫 How to reach me: RonnieLeePhillips@yahoo.com
-✍ Contact me if you'd like to collaborate I'm open to new projects.
-🌇 I am sucker for the 🌄 mountains.
-🍂 Fall is my favorite season.
-🏍 I love riding motorcycles.
+I enjoy ⛺ traveling and camping, brazilian jiu-jitsu, 🐠 offshore fishing, 💻 learning new coding skills, and 🏋working out.<br>
+📫 How to reach me: RonnieLeePhillips@yahoo.com<br>
+✍ Contact me if you'd like to collaborate I'm open to new projects.<br>
+🌇 I live in the city but Im sucker for the 🌄 mountains.<br>
+🍂 Fall is my favorite season.<br>
+🏍 I love riding motorcycles.<br>
 
 
 <h2>🔧 Things I work with</h2>
